@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 ![ferdi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvYnY0MXZ1YXBlYTkzaG1lbjRxd3BieWdhZHdndWxreXM0bnI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif)
-
+<pre>
 Saya adalah mahasiswa Teknik Informatika di Universitas Pamulang yang memiliki ketertarikan besar dalam dunia teknologi, khususnya di bidang software development dan web programming.
 Saya percaya bahwa teknologi bukan hanya tentang menulis kode, tetapi tentang membangun solusi yang bisa membantu banyak orang. Karena itu, saya terus mengasah kemampuan melalui proyek pribadi, eksplorasi teknologi baru, serta praktik langsung dalam membangun aplikasi berbasis web.
 🚀 “Keep learning, keep building, and never stop improving.”
+</pre>
