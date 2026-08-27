@@ -24,3 +24,21 @@ Saya percaya bahwa teknologi bukan hanya tentang menulis kode, tetapi tentang me
 <pre>
 🚀 “Keep learning, keep building, and never stop improving.”
 </pre>
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=FerdiArdiansyah01.FerdiArdiansyah01&"  />
+</div>
+
+###
+
+<p data-importer="text" align="left">Play games with me..</p>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerdiArdiansyah01/FerdiArdiansyah01/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerdiArdiansyah01/FerdiArdiansyah01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FerdiArdiansyah01/FerdiArdiansyah01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
